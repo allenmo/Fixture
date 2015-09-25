@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fixture</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="imageFromWeb">imageFromWeb</string>
+    <string name="button">I\'m button</string>
+</resources>
